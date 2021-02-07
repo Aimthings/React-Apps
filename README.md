@@ -1,2 +1,2 @@
 # React-Apps
-These are some the apps, which I am making while learning react course
+These are some of the apps, which I have made while learning react and redux.
